@@ -15,6 +15,6 @@ Fonctions à coder :
 
 ## Répartition ##
 
-Max s'occupe du choix de la langue / dictionnaires / dessins
-Grég s'occupe du choix du mot / Si la lettre est dedans ou non / articulation des fonctions
-Célestine s'occupe du classement des joueurs / Affichage du mot avec lettres découvertes et non
+Max s'occupe du choix de la langue / dictionnaires / dessins               
+Grég s'occupe du choix du mot / Si la lettre est dedans ou non / articulation des fonctions                     
+Célestine s'occupe du classement des joueurs / Affichage du mot avec lettres découvertes et non               
