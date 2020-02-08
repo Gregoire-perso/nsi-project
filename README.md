@@ -13,7 +13,7 @@ Fonctions à coder :
 4. Affichage du mot avec les lettres découvertes et pas bonnes
 5. Classement des joueurs
 
-## Répaertition ##
+## Répartition ##
 
 Max s'occupe du choix de la langue / dictionnaires / dessins
 Grég s'occupe du choix du mot / Si la lettre est dedans ou non / articulation des fonctions
