@@ -12,6 +12,7 @@ Fonctions à coder :
 3. Si la lettre est correcte
 4. Affichage du mot avec les lettres découvertes et pas bonnes
 5. Classement des joueurs
+6. Vérifier si la lettre à déjà été tappée ou non
 
 ## Répartition ##
 
