@@ -7,12 +7,12 @@ Mode joueur solo et multijoueur
   --> Trouver un dictionnaire sur Google
 
 Fonctions à coder : 
-[x] Choix du mot
-[] Dessin progressif
-[x] Si la lettre est correcte
-[] Affichage du mot avec les lettres découvertes et pas bonnes
-[] Classement des joueurs
-[] Vérifier si la lettre à déjà été tappée ou non
+- [x] Choix du mot
+- [ ] Dessin progressif
+- [x] Si la lettre est correcte
+- [ ] Affichage du mot avec les lettres découvertes et pas bonnes
+- [ ] Classement des joueurs
+- [ ] Vérifier si la lettre à déjà été tappée ou non
 
 ## Répartition ##
 
