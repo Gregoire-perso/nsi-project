@@ -19,3 +19,5 @@ Fonctions à coder :
 Max s'occupe du choix de la langue / dictionnaires / dessins               
 Grég s'occupe du choix du mot / Si la lettre est dedans ou non / articulation des fonctions                     
 Célestine s'occupe du classement des joueurs / Affichage du mot avec lettres découvertes et non               
+
+https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt
